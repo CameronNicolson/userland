@@ -1,2 +1,4 @@
-# userland
-A repo for my personal app's configuration files
+This file contains the following configuration files:
+
+- Rofi
+- Sway
