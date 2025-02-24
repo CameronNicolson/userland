@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProgramDirectory>
+  <Platform name="Linux">
+        <Program>
+            <Name>cp</Name>
+	    <Description>Copy files and directories</Description>
+            <Version>Any</Version>
+            <Developer>GNU Coreutils</Developer>
+            <DownloadURL>https://www.gnu.org/software/coreutils/#download</DownloadURL>
+        </Program>
+    </Platform>
+</ProgramDirectory>
